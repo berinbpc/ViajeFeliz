@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module viajeFeliz {
+	requires junit;
+}
